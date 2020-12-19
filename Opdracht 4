@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+<head>
+  <title> Vallei der Koningen </title>
+</head>
+
+<div class="box-1">
+
+  <body>
+    <header>
+      <h1>De Vallei der Koningen</h1>
+      <img src="Afbeeldingen/Vallei-der-Koningen.jpg" alt="Vallei der Koningen" width="100%" height="200">
+    </header>
+    <main>
+      <p> Het Dal der Koningen, beter bekend als de Vallei der Koningen, is een dal in Egypte. Er liggen allemaal
+        Egyptische koningen (farao´s) begraven. De graven van Ramses de Grote en Toetanchamon zijn misschien wel de
+        bekendste graven die er liggen.
+        Het graf van Toetanchamon is ontdekt door Howard Carter & Lord Carnavan. De meeste graven in het dal der
+        koningen zijn al geplunderd, maar dat van Toetanchamon is één van de weinige waar bijna alles nog in lag toen
+        het in 1922 werd ontdekt. Naast deze graven liggen er nog meer graven en vele koninklijke mummies. De
+        Egyptenaren deden veel voor hun doden en probeerden hun leven na de dood zo goed mogelijk te laten verlopen.
+        Daarom stond de muren vol met hiërogliefen met magische spreuken, of legden ze papyrusrollen bij hun doden. Deze
+        werden later dodenboeken genoemd.
+      </p>
+    </main>
+    <footer>
+      <p>Dit zijn de bekendste farao's:</p>
+      <ul>
+        <li><a href="about.html">Toetanchamon</a></li>
+        <li>Ramses II</li>
+        <li>Ahmose I</li>
+      </ul>
+    </footer>
+  </body>
+</div>
+
+</html>
